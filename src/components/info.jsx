@@ -18,6 +18,7 @@ function Info() {
         </a>
         <a
           href="mailto:igojicaroline@gmail.com"
+          target="_blank"
           className="bg-[#5093E2] py-[9px] px-[13px] shadow-[0px 1px 2px rgba(0, 0, 0, 0.05)] rounded-[6px] text-[14px] font-[500] email"
         >
           <i className="uil uil-envelope-add mr-2"></i>
